@@ -230,3 +230,63 @@ Security Features:
 ---
 
 # System Architecture Flow
+Users
+
+↓
+
+Frontend Application
+
+↓
+
+API Gateway
+
+↓
+
+Backend Services
+
+↓
+
+AI Intelligence Layer
+
+↓
+
+Database + Vector Database
+
+↓
+
+External Integrations
+
+↓
+
+Insights & Recommendations
+
+
+---
+
+# Deployment Architecture (Future)
+
+The system can be deployed using:
+
+- Cloud infrastructure
+- Containerized services
+- CI/CD pipelines
+- Monitoring tools
+
+Possible Platforms:
+
+- AWS
+- Microsoft Azure
+- Google Cloud
+
+---
+
+# Architecture Goals
+
+The system architecture is designed to provide:
+
+- Scalability
+- Security
+- High availability
+- AI-driven automation
+- Enterprise readiness
+- Multi-tenant SaaS capability
